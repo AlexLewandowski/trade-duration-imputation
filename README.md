@@ -1,2 +1,2 @@
 # trade-duration-imputation
-Paper and code accompanying a research project for topics in econometrics (ECON 422 - W16)
+Paper and code for research project in nonparametric econometrics (ECON 422 - W16)
